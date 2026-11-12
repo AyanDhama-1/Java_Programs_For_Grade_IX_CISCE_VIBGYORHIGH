@@ -1,0 +1,84 @@
+public class 
+ {
+   public static void main(String args [])
+   {
+       
+   }
+ }
+ 
+ 
+ 
+ 
+ print:- System.out.print("");
+ println:- System.out.println("");
+ 
+ 
+ 
+ Scanner class :-
+ 
+ 
+ ◦for Short Variable{nextShort()}-
+ import java.util.*;
+ 
+ Scanner sc = new Scanner(System.in);
+ System.out.print("");
+ short c = sc.nextShort();
+ 
+ 
+ ◦For Int variable{nextInt()}-
+ import java.util.*;
+ 
+ Scanner sc = new Scanner(System.in);
+ System.out.print("");
+ int c = sc.nextInt();
+ 
+ 
+ ◦For long variable{nextLong()}-
+ import java.util.*;
+ 
+ Scanner sc = new Scanner(System.in);
+ System.out.print("");
+ long c = sc.nextLong();
+ 
+ 
+ ◦For float variable{nextFloat()}-
+ import java.util.*;
+ 
+ Scanner sc = new Scanner(System.in);
+ System.out.print("");
+ float c = sc.nextFloat();
+ 
+ 
+ ◦For double variable{nextDouble()}-
+ import java.util.*;
+ 
+ Scanner sc = new Scanner(System.in);
+ System.out.print("");
+ double c = sc.nextDouble();
+  
+ 
+ ◦For char variable{next().charAt(0)}-
+  import java.util.*;
+ 
+ Scanner sc = new Scanner(System.in);
+ System.out.print("");
+ char c = sc.next().charAt(0);
+  
+ 
+ ◦For only one word {next()}-
+ import java.util.*;
+ 
+ Scanner sc = new Scanner(System.in);
+ System.out.print("");
+ String c = sc.next();
+ 
+ 
+ ◦For one line {nextLine()}-
+ import java.util.*;
+ 
+ Scanner sc = new Scanner(System.in);
+ System.out.print("");
+ String c = sc.nextLine();
+ 
+ 
+ 
